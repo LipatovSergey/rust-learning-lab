@@ -5,7 +5,3 @@ version = 4
 [[package]]
 name = "bank_account_cli"
 version = "0.1.0"
-
-[[package]]
-name = "city_guide"
-version = "0.1.0"
